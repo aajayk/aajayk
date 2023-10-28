@@ -15,9 +15,5 @@
 
 Nodejs / Express / Javascript / Typescript / MYSQL / REST API / API Gateway / GITHUB / NGINX 
 
-<! --
-## Some Statistics About Me
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=aajayk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
--->
 
 ⭐️ From [Ajay](https://github.com/aajayk)
