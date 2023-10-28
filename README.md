@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Developer 🚀</h3>
 
 
-- 🔭 I’m currently working as a Lead Engineer (NodeJS) with 4+ years of experience.
+- 🔭 I’m currently working as a Lead Engineer (NodeJS) with 6+ years of experience.
 - 🌱 I’m currently learning Frontend.
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
